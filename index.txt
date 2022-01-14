@@ -1,0 +1,11 @@
+Text editor edits plain test
+Word processors formats the text.
+HTML documents are the building blocks of the internet.
+HTNL is made up of the text that the user will actually read in their browser
+Markup- tells the browser what that text should look like and how its arranged.
+Within markup, ther can be references to include other documents and files like images and videos.
+Markup- test with meaning.
+em- text is emphasized. displayed in italics.
+Element start and end with tags or opening and closing tags.
+tags always start with angle brackets
+
