@@ -3,9 +3,16 @@ Word processors formats the text.
 HTML documents are the building blocks of the internet.
 HTNL is made up of the text that the user will actually read in their browser
 Markup- tells the browser what that text should look like and how its arranged.
-Within markup, ther can be references to include other documents and files like images and videos.
+Within markup, therE can be references to include other documents and files like images and videos.
 Markup- test with meaning.
 em- text is emphasized. displayed in italics.
 Element start and end with tags or opening and closing tags.
 tags always start with angle brackets
-
+A whole element contains a single opening and closing word including text to be displayed.
+White spaces- spaces, tabs and line breaks.
+br, hr img are example of void elements.
+SYNTAX: the grammer rules of a language
+Nesting: the idea that some bits of code can go inside other bits of code
+MARKUP: code that tells the borwser what the text on a web page should look like
+HYPERTEXT: text that can have links or references.
+WHITESPACE: a GENERAL TERMS FOR SPACES, TABS AND LINE BREAKS.
