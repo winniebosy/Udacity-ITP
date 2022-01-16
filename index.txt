@@ -36,3 +36,7 @@ a element is an inline element. It does not create a box on the page. Links norm
 It is neccessary to put fully qualified urls for proper page access
 img is an inline element
 relative links-url- used for locating files in the pc
+A block element creates a (usually invisible) box in the browser display. By default, this box takes up the full width of the display. The beginning of a block always starts on a new line in the display.
+Most block elements have a particular way they are displayed by default: paragraphs have margins around them; lists have bullet-points or numbered items; headlines are printed in large text. There is also a generic block element, div, which has no special defaults.
+Inline elements
+Inline elements do not create a full-width box on the display. They modify the display of text, or insert other things into the text — such as line breaks, images, or hyperlinks.
