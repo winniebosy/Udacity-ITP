@@ -13,6 +13,12 @@ White spaces- spaces, tabs and line breaks.
 br, hr img are example of void elements.
 SYNTAX: the grammer rules of a language
 Nesting: the idea that some bits of code can go inside other bits of code
-MARKUP: code that tells the borwser what the text on a web page should look like
+MARKUP: code that tells the browser what the text on a web page should look like
 HYPERTEXT: text that can have links or references.
 WHITESPACE: a GENERAL TERMS FOR SPACES, TABS AND LINE BREAKS.
+TYPOGRAPHICAL elements: ed mark, sub ,sup.
+Elements that do not create blocks are called inline elements.
+block elements:- makes a box around it hence block level elements.
+Division(div)- divides a pages into different sections.
+div element is a generic container meant to organise text and divide page into sections.
+continue on ex 21.
