@@ -22,3 +22,4 @@ block elements:- makes a box around it hence block level elements.
 Division(div)- divides a pages into different sections.
 div element is a generic container meant to organise text and divide page into sections.
 continue on ex 21.
+p and li elements are the two tags that have optional closing tags in html.
