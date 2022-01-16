@@ -10,8 +10,8 @@ Element start and end with tags or opening and closing tags.
 tags always start with angle brackets
 A whole element contains a single opening and closing word including text to be displayed.
 White spaces- spaces, tabs and line breaks.
-br, hr img are example of void elements.
-SYNTAX: the grammer rules of a language
+br, hr img are example of void/empty elements.
+SYNTAX: the grammar rules of a language
 Nesting: the idea that some bits of code can go inside other bits of code
 MARKUP: code that tells the browser what the text on a web page should look like
 HYPERTEXT: text that can have links or references.
@@ -23,3 +23,4 @@ Division(div)- divides a pages into different sections.
 div element is a generic container meant to organise text and divide page into sections.
 continue on ex 21.
 p and li elements are the two tags that have optional closing tags in html.
+WEB ADDRSSES
