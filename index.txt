@@ -34,3 +34,5 @@ EXAMPLES of qualified urls: https://www.google.com and file:///home/winnie/photo
 attribute: extra piece of data that gives meaning.
 a element is an inline element. It does not create a box on the page. Links normally have the appearenace of a specifically highlighted piece of text.
 It is neccessary to put fully qualified urls for proper page access
+img is an inline element
+relative links-url- used for locating files in the pc
