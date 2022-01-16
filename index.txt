@@ -23,4 +23,10 @@ Division(div)- divides a pages into different sections.
 div element is a generic container meant to organise text and divide page into sections.
 continue on ex 21.
 p and li elements are the two tags that have optional closing tags in html.
-WEB ADDRSSES
+WEB ADDRESSES
+a WEB address is called a URL(uNIFORM rESOURCE LOCATOR).
+UNIFORM = standardized
+RESOURCE =a file or other data object
+LOCATOR = address for finding something
+Absolute URL - THAT HAS A FULL ADDRESSES
+EXAMPLES of qualified urls: https://www.google.com and file:///home/winnie/photos/scotland.jpg (accessing locally)
