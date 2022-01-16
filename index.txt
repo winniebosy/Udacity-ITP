@@ -30,3 +30,7 @@ RESOURCE =a file or other data object
 LOCATOR = address for finding something
 Absolute URL - THAT HAS A FULL ADDRESSES
 EXAMPLES of qualified urls: https://www.google.com and file:///home/winnie/photos/scotland.jpg (accessing locally)
+<a></a>- anchor for anchoring web pages for links.
+attribute: extra piece of data that gives meaning.
+a element is an inline element. It does not create a box on the page. Links normally have the appearenace of a specifically highlighted piece of text.
+It is neccessary to put fully qualified urls for proper page access
